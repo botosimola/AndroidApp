@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Progr3ss</string>
+    <string name="logo_content_description">Progr3ss logo</string>
+    <string name="splash_tagline">Every step counts.</string>
+    <string name="splash_description">Set goals, track your habits and watch your progress grow.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_title">Create your account</string>
+    <string name="register_button">Continue to Login</string>
+</resources>
